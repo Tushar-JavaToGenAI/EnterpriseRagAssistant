@@ -1,0 +1,10 @@
+Enterprise Remote Work and Reimbursement Guidelines
+
+1. Eligibility and Hybrid Schedule:
+Full-time employees are eligible for a hybrid working model consisting of up to three days of remote work per week, subject to manager approval. Core working hours are 10:00 AM to 4:00 PM local time, during which employees are expected to remain reachable on communication channels.
+
+2. Home Office Expense Allowance:
+To support home workplace ergonomics, the company provides a one-time home office setup reimbursement of up to $500 for eligible hardware (monitors, keyboards, ergonomic chairs). In addition, employees working remotely can claim a monthly internet allowance of up to $50. Expense claims must be submitted with valid receipts via the finance portal by the 25th of each month.
+
+3. Equipment Security:
+All work conducted remotely must utilize company-issued devices secured with Multi-Factor Authentication (MFA). Using personal devices for storing enterprise code or confidential client data is strictly prohibited.
